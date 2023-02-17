@@ -1,6 +1,8 @@
 body {
   margin: 0;
-  background: #12566d;
+  /* background: #12566d; */
+  background-image: url(../../imagem/fundo_todolist2.jpg);
+  background-size: 100%;
 }
 
 .app {
