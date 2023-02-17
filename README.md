@@ -1,2 +1,2 @@
 # Manipulando o DOM com JS
-![image](https://user-images.githubusercontent.com/58658312/219799610-97b96a12-8a62-4b48-a8a8-e05fdceac33e.png)
+![image](https://user-images.githubusercontent.com/58658312/219804199-c953f2cc-89cd-46e4-9802-a0f87f5c9d4e.png)
